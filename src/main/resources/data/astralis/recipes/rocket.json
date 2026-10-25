@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "PBP",
+    "PEP"
+  ],
+  "key": {
+    "C": {
+      "item": "astralis:electronic_circuit"
+    },
+    "P": {
+      "item": "astralis:titanium_plate"
+    },
+    "B": {
+      "item": "astralis:titanium_block"
+    },
+    "E": {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "result": {
+    "item": "astralis:rocket",
+    "count": 1
+  }
+}

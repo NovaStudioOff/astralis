@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "astralis:raw_titanium"
+  },
+  "result": "astralis:titanium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

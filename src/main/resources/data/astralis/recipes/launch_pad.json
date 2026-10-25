@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "IRI",
+    "BBB"
+  ],
+  "key": {
+    "P": {
+      "item": "astralis:titanium_plate"
+    },
+    "C": {
+      "item": "astralis:electronic_circuit"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "B": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "astralis:launch_pad",
+    "count": 1
+  }
+}

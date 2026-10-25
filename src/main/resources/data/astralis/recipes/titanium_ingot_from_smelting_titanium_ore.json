@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "astralis:titanium_ore"
+  },
+  "result": "astralis:titanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

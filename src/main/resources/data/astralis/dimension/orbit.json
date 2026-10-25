@@ -1,0 +1,13 @@
+{
+  "type": "astralis:orbit",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "astralis:lunar_plains",
+      "features": false,
+      "lakes": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

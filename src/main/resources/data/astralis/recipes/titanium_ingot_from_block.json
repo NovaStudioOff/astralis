@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralis:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "astralis:titanium_ingot",
+    "count": 9
+  }
+}

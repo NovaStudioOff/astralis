@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PGP"
+  ],
+  "key": {
+    "P": {
+      "item": "astralis:titanium_plate"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "astralis:space_helmet",
+    "count": 1
+  }
+}

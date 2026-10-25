@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "PCP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "astralis:titanium_plate"
+    },
+    "C": {
+      "item": "astralis:oxygen_canister"
+    }
+  },
+  "result": {
+    "item": "astralis:space_chestplate",
+    "count": 1
+  }
+}

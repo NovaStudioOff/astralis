@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "astralis:titanium_ore",
+    "astralis:deepslate_titanium_ore",
+    "astralis:titanium_block",
+    "astralis:moon_rock",
+    "astralis:lunar_ilmenite_ore",
+    "astralis:launch_pad"
+  ]
+}

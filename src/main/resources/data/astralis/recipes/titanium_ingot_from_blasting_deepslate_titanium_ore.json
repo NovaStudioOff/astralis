@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "astralis:deepslate_titanium_ore"
+  },
+  "result": "astralis:titanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

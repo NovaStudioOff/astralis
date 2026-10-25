@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="astralis"
+version="2.0.0"
+displayName="Astralis"
+description='''
+Conquête spatiale réaliste : fusée pilotable, orbite terrestre, transfert vers la Lune, ciel réel
+(étoiles, Voie lactée, planètes et phases de la Lune du jour), gravité 1/6, vide, silence, pas de feu.
+'''
+
+[[dependencies.astralis]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.astralis]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"

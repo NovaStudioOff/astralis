@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "P P",
+    "P P"
+  ],
+  "key": {
+    "P": {
+      "item": "astralis:titanium_plate"
+    }
+  },
+  "result": {
+    "item": "astralis:space_leggings",
+    "count": 1
+  }
+}
